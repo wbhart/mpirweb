@@ -1,0 +1,25 @@
+<h2>Overview</h2>
+
+<p>MPIR is a highly optimised library for bignum arithmetic forked from the
+GMP bignum library. It is written in assembly language and C. It is currently 
+maintained by <a href="mailto:goodwillhart {at_thingy} googlemail dot com">William Hart</a>.</p>
+
+<p>The features of MPIR include:</p>
+<ul>
+<li>MSVC solution files for 32 and 64 bit Windows</li>
+<li>64 bit inputs to all high level (_si and _ui) functions on Windows 64</li>
+<li>Superoptimised assembly sequences for x86_64 hardware</li>
+<li>Very fast Schoenhage-Strassen implementation for large integer products</li>
+<li>Improved divide-and-conquer division</li>
+<li>Many other algorithmic and coding tricks</li>
+</p>
+
+<p>MPIR is licensed <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html">LGPL v3+</a>.</p>
+
+<p>MPIR is written in ANSI C and assembly language and runs on many platforms 
+(including Linux, Mac OS X and Windows on common hardware configurations),
+but is currently mostly optimised for x86 and x86-64 CPUs. It is designed to 
+be threadsafe.</p>
+
+<p>FLINT has been used for large scale computations in number theory research (for example: <a href="http://www.aimath.org/news/congruentnumbers/">A Trillion Triangles</a>), and is also suited as a general-purpose backend for computer algebra systems. <a href="http://sagemath.org">Sage</a> uses FLINT as the default package for polynomial arithmetic over Z, Q and Z/<i>n</i>Z for small <i>n</i>, and work is currently underway to use FLINT in <a href="http://www.singular.uni-kl.de/">Singular</a> and <a href="http://www.math.uiuc.edu/Macaulay2/">Macaulay2</a>.</p>
+

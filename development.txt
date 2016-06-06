@@ -1,0 +1,40 @@
+<h2>Development</h2>
+
+<h3>Source (git repository)</h3>
+
+<p>You can get a clone of the git development repo with:</p> 
+
+<pre>git clone git://github.com/wbhart/mpir.git mpir</pre> 
+ 
+<p>If you want to browse the repository online, or fork it on GitHub, it can be accessed here:</p> 
+<a href="https://github.com/wbhart/mpir">https://github.com/wbhart/mpir</a> 
+ 
+<p>The current development branch within the repository is "master".</p> 
+
+<h3>Mailing list</h3>
+
+<p>...and come and join the growing community of volunteers at our Google development group:</p> 
+<a href="http://groups.google.com/group/mpir-devel">mpir-devel Google Group</a>
+
+<h3>Development ideas</h3>
+
+<p>Our GitHub issue tracker: <a href="https://github.com/wbhart/mpir/issues">https://github.com/wbhart/mpir/issues</a></p>
+
+<p>Here is a list of ideas for development projects
+that would be highly valuable to a large number of users.
+Some of these could
+make good student projects (or in some cases, research projects).
+</p>
+
+<ul>
+<li>Parallelise the FFT for large integer multiplication</li>
+<li>Write a "small primes" DFT for large integer multiplication</li>
+<li>New assembly language for modern x86_64 processors with AVX support</li>
+<li>Implementation of the Bouvier-Zimmermann algorithm for division-free binary to decimal conversion</li>
+</ul>
+
+<p>
+If you are interested in contributing to MPIR in any way,
+or even just want to request a feature,
+don't hesitate to leave a message on the mailing list!</p>
+

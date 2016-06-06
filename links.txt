@@ -1,0 +1,20 @@
+<h2>Links and references</h2>
+
+<h3>Software using MPIR</h3>
+
+<ul>
+<li><a href="http://sagemath.org">Sage</a> uses MPIR as the default bignum
+library.</li>
+<li><a href="http://flintlib.org">Flint</a> is a number theory library written in C that supports MPIR. It includes a library for very fast polynomial arithmetic.</li>
+<li><a href="https://room.eiffel.com/node/407">eiffelroom</a> : an interface in
+the eiffel programming language</li>
+<li><a href="https://pypi.python.org/pypi/gmpy2">gmpy</a> is a Python extension module which wraps the GMP library to provide multiprecision arithmetic in Python. It also supports MPIR.</li>
+<li><a href="http://www.advanpix.com">Advanpix</a> is a Multiprecision Computing Toolbox which enables users to conduct numerical computations in MATLAB with any required degree of precision, which supports MPIR.</li>
+<li><a href="http://php.net/">PHP</a> is a popular general purpose scripting
+language that supports MPIR.</li>
+</ul>
+
+<h3>References to MPIR in the literature and online</h3>
+
+<h3>Mathematics, algorithms and implementation</h3>
+

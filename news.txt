@@ -1,0 +1,19 @@
+<h2>News</h2>
+
+<p>2016-02-01: Alex Best is hired to write an assembly superoptimiser as part
+of the OpenDreamKit H2020 initiative, funded by the European Union.</p>
+
+<p>2015-11-20: MPIR 2.7.2 is released!</p>
+
+<p>This main new features of the 2.7.x series are:</p>
+<ul>
+<li>Fix bug in Karatsuba assembly code on Windows.</li>
+<li>Remove recently added basecase division which to be proved buggy.</li>
+<li>Added some missing information in AUTHORS.</li>
+<li>Travis continuous integration.</li>
+<li>Add building of tests to command line build for Windows.</li>
+<li>Improve speed and tune targets on Windows.</li>
+<li>Various improvements of MSVC build.</li>
+</ul>
+
+
