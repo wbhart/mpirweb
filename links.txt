@@ -5,6 +5,8 @@
 <ul>
 <li><a href="http://sagemath.org">Sage</a> uses MPIR as the default bignum
 library.</li>
+<li><a href="http://nemocas.org/">Nemo</a> is a computer algebra package for
+the Julia programming language. It uses MPIR for bignum arithmetic.</li>
 <li><a href="http://flintlib.org">Flint</a> is a number theory library written in C that supports MPIR. It includes a library for very fast polynomial arithmetic.</li>
 <li><a href="https://room.eiffel.com/node/407">eiffelroom</a> : an interface in
 the eiffel programming language</li>
