@@ -3,6 +3,7 @@ import glob
 PAGE_TOP = r"""<html>
 <head>
 <title>MPIR: Multiple Precision Integers and Rationals</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style type="text/css" media="screen">
 body, table { font-family: arial, sans-serif; font-size: 16px; line-height:1.4em; }
 h1, h2, h3 { font-weight: normal; }
