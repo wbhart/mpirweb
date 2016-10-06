@@ -30,7 +30,7 @@ work is currently being carried out by Alex Best and Jens Nurmann.</p>
 <li>Robert Gerbicz - Fast root detection, factorial and binomial coefficient computation</li>
 <li>David Harvey - Middle product and divide and conquer approximate quotient (see release notes for MPIR 1.3 here for details)</li>
 <li>Paul Zimmermann - Multiple precision inversion code for computing precomputed inverses</li>
-<li>Paul Zimmermann, Pierrick Gaudry, Alexander Kruppa, Torbjorn Granlund - new FFT code</li>
+<li>Paul Zimmermann, Pierrick Gaudry, Alexander Kruppa, Torbjörn Granlund - new FFT code</li>
 <li>Peter Shrimpton - BPSW primality test code for integers up to GMP_LIMB_BITS</li>
 <li>T.R.Nicely - Primality test code used in the MPIR benchmark program</li>
 <li>Minh Van Nguyen - served as release manager for MPIR 2.1.0</li>
