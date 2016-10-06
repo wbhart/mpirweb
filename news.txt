@@ -1,5 +1,8 @@
 <h2>News</h2>
 
+<p>2016-08-01: Alex Kruppa is hired to superoptimise MPIR assembly functions
+for modern Intel and AMD CPUs and write AVX assembly for the same.</p>
+
 <p>2016-02-01: Alex Best is hired to write an assembly superoptimiser as part
 of the OpenDreamKit H2020 initiative, funded by the European Union.</p>
 

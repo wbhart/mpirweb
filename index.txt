@@ -20,3 +20,8 @@ maintained by <a href="mailto:goodwillhart {at_thingy} googlemail dot com">Willi
 (including Linux, Mac OS X and Windows on common hardware configurations),
 but is currently mostly optimised for x86 and x86-64 CPUs. It is designed to 
 be threadsafe.</p>
+
+<img src="logo1.svg">
+
+<img src="logo2.svg">
+
