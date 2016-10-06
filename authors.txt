@@ -49,11 +49,11 @@ please consider giving a formal citation.</p>
 </ul>
 
 <pre>
-@misc{flint,
+@misc{mpir,
     author = {B. Gladman, W. Hart and J. Moxham, et al.},
     title = {{MPIR}: {M}ultiple {P}recision {I}ntegers and {R}ationals},
     year = {2015},
-    note = {Version 2.7.0, \url{http://flintlib.org}}
+    note = {Version 2.7.0, \url{http://mpir.org}}
 }
 </pre>
 
