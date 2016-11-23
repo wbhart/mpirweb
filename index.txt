@@ -14,7 +14,7 @@ maintained by <a href="mailto:goodwillhart {at_thingy} googlemail dot com">Willi
 <li>Many other algorithmic and coding tricks</li>
 </ul>
 
-<p>MPIR is licensed <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html">LGPL v3+</a>.</p>
+<p>MPIR is licensed <a href="https://www.gnu.org/licenses/lgpl-3.0.en.html">LGPL v3+</a>.</p>
 
 <p>MPIR is written in ANSI C and assembly language and runs on many platforms 
 (including Linux, Mac OS X and Windows on common hardware configurations),
