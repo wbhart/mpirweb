@@ -48,6 +48,7 @@ superoptimisation</li>
 <li>Sisyphus (Rob) - Tuning values</li>
 <li>Leif Lionhardy - Build system patches, tuning values</li>
 <li>Julien Puydt - Tuning values</li>
+<li>sav-ix (Alexander) - patch for t-locale on Windows</li>
 </ul>
 
 <h3>Citing MPIR</h3>
