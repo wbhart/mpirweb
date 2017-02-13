@@ -4,36 +4,50 @@
 
 <p>MPIR has been developed since 2008 by a large number of people. It is
 currently maintained by William Hart. The main developers include
-William Hart, Brian Gladman and Jason Moxham (until 2012). Significant
-work is currently being carried out by Alex Best and Jens Nurmann.</p>
+William Hart, Brian Gladman and Jason Moxham (until 2012).</p>
 
-<p>The authors of MPIR to date:</p>
+<p>The authors of MPIR to date (including code merged from the main GMP
+project since MPIR 1.0):</p>
 
 <ul>
 <li>Brian Gladman - Windows MSVC port and intel format x86_64 code</li>
 <li>Jason Moxham - Very significant and extensive improvements to the assembly code on numerous processors.</li>
 <li>William Hart - Build system modifications and intel format x86_64 code, some work on Toom 4 and Toom 7 code, extended GCD version of Möller's fast GCD code</li>
-<li>Pierrick Gaudry - AMD 64 assembly support</li>
+<li>Pierrick Gaudry - AMD 64 assembly support, revised FFT code</li>
 <li>Gonzalo Tornaria - Patches to config.guess, cpuid.c and help with build testing</li>
 <li>Jason Worth Martin - Core 2 assembly support, merge of Möller's GCD patches</li>
 <li>Michael Abshoff - Build system patches, valgrinding, build testing</li>
-<li>Niels Möller - Fast GCD patches</li>
+<li>Niels Möller - Fast GCD patches, nhgcd2.c, contributions to the schoolbook
+                     and divide and conquer division code, jacobi symbols</li>
 <li>Burcin Erocal - help with build testing on Pentium-D</li>
 <li>Mariah Lennox - improvements to mpirbench and help with build testing on numerous systems, maintenance of a build farm including installing compiler snapshots</li>
-<li>Marco Bodrato and Paul Zimmermann - implementations of Toom 4 and Toom 7</li>
+<li>Marco Bodrato - mpz implementation of Toom 7, mpn implementation of toom 8.5, contributed to Schoolbook division code many improved number theoretical functions factorial, multi-factorial, primorial, n-choose-k</li>
+<li>Marc Glisse - gmpxx.h improvements</li>
+<li>Martin Boij - Miscellaneous improvements to nextprime code</li>
+<li>Paul Zimmermann - mpz implementation of Toom 4, FFT code, invert.c,
+rootrem</li>
 <li>William Stein - build testing on certain platforms</li>
-<li>Jeff Gilchrist - build testing on Windows</li>
+<li>Jeff Gilchrist - porting of T. R. Nicely's code to MPIR, build testing on Windows</li>
 <li>David Kirkby - Build testing on Sun servers</li>
 <li>Case van Horsen - Build testing on MinGW and Cygwin</li>
 <li>Anonymous Japanese contributor - assembly code improvements</li>
 <li>Marshall Hampton - reported a build issue on recent apple machines</li>
 <li>Robert Gerbicz - Fast root detection, factorial and binomial coefficient computation</li>
-<li>David Harvey - Middle product and divide and conquer approximate quotient (see release notes for MPIR 1.3 here for details)</li>
-<li>Paul Zimmermann - Multiple precision inversion code for computing precomputed inverses</li>
+<li>David Harvey - Middle product and divide and conquer approximate quotient (see release notes for MPIR 1.3 here for details), some work on basecase division</li>
 <li>Paul Zimmermann, Pierrick Gaudry, Alexander Kruppa, Torbjörn Granlund - new FFT code</li>
 <li>Peter Shrimpton - BPSW primality test code for integers up to GMP_LIMB_BITS</li>
 <li>T.R.Nicely - Primality test code used in the MPIR benchmark program</li>
 <li>Minh Van Nguyen - served as release manager for MPIR 2.1.0</li>
+<li>Alexander Kruppa - Skylake, Bulldozer, Haswell assembly support and
+superoptimisation</li>
+<li>Jens Nurmann - Skylake assembly support</li>
+<li>Alex Best - Assembly superoptimiser</li>
+<li>Vincent Delecroix - port of mpq_cmp_z from gmp</li>
+<li>David Cleaver - Bug report</li>
+<li>JP Flori - Many build system patches, tuning values</li>
+<li>Sisyphus (Rob) - Tuning values</li>
+<li>Leif Lionhardy - Build system patches, tuning values</li>
+<li>Julien Puydt - Tuning values</li>
 </ul>
 
 <h3>Citing MPIR</h3>
