@@ -40,6 +40,9 @@ rootrem</li>
 <li>Minh Van Nguyen - served as release manager for MPIR 2.1.0</li>
 <li>Alexander Kruppa - Skylake, Bulldozer, Haswell assembly support and
 superoptimisation</li>
+<li>Torbjörn Granlund - schoolbook and divide and conquer
+division code (reused in asymptotically fast division code), logops, rootrem,
+tdiv_q, tdiv_qr, linear division code for x86_64, itanium assembly code, divexact, nextprime, n-choose-k, binvert, mullow_n_basecase, powlo, redc_n, powm, powm_ui improvements</li>
 <li>Jens Nurmann - Skylake assembly support</li>
 <li>Alex Best - Assembly superoptimiser</li>
 <li>Vincent Delecroix - port of mpq_cmp_z from gmp</li>
@@ -51,6 +54,7 @@ and mpz_powm_ui to MPIR</li>
 <li>Julien Puydt - Tuning values</li>
 <li>sav-ix (Alexander) - patch for t-locale on Windows</li>
 <li>Isuru Fernando - Tuning values</li>
+<li>Alex Dyachenko - mpir.net for interface to .net languages</li>
 </ul>
 
 <h3>Citing MPIR</h3>
