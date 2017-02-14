@@ -44,11 +44,13 @@ superoptimisation</li>
 <li>Alex Best - Assembly superoptimiser</li>
 <li>Vincent Delecroix - port of mpq_cmp_z from gmp</li>
 <li>David Cleaver - Bug report</li>
-<li>JP Flori - Many build system patches, tuning values</li>
+<li>JP Flori - Many build system patches, tuning values, port of GMP mpz_powm
+and mpz_powm_ui to MPIR</li>
 <li>Sisyphus (Rob) - Tuning values</li>
 <li>Leif Lionhardy - Build system patches, tuning values</li>
 <li>Julien Puydt - Tuning values</li>
 <li>sav-ix (Alexander) - patch for t-locale on Windows</li>
+<li>Isuru Fernando - Tuning values</li>
 </ul>
 
 <h3>Citing MPIR</h3>
