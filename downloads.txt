@@ -1,6 +1,6 @@
 <h2>Downloads</h2>
 
-<p>For a list of changes in each release, see the <a href="http://github.com/wbhart/mpir/blob/trunk/NEWS">NEWS</a> file.</p> 
+<p>For a list of changes in each release, see the <a href="http://github.com/wbhart/mpir/blob/master/NEWS">NEWS</a> file.</p> 
 
 <p>Note that MPIR is licensed LGPLv3+.</p>
 
