@@ -8,6 +8,7 @@
  
 <p>MPIR tarballs:</p>
 <ul> 
+<li>2017-02-16 <b><a href="mpir-3.0.0-alpha1.tar.bz2">MPIR 3.0.0-alpha1 source bz2</a></b>, documentation: <b><a href="mpir-3.0.0.pdf">Documentation pdf</a></b> (MPIR 3.0.0-alpha)</li>
 <li>2015-11-20 <b><a href="mpir-2.7.2.tar.bz2">MPIR 2.7.2 source bz2</a></b>, <b><a href="mpir-2.7.2.zip">MPIR 2.7.2 source zip</a></b>, documentation: <b><a href="mpir-2.7.2.pdf">Documentation pdf</a></b> (MPIR 2.7.2)</li>
 <li>2012-11-08 <b><a href="mpir-2.6.0.tar.bz2">MPIR 2.6.0 source bz2</a></b>, documentation: <b><a href="mpir-2.6.0.pdf">Documentation pdf</a></b></li>
 <li>2012-10-02 <b><a href="mpir-2.5.2.tar.bz2">MPIR 2.5.2 source bz2</a></b>, documentation: <b><a href="mpir-2.5.2.pdf">Documentation pdf</a></b></li>

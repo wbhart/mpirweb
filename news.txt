@@ -1,5 +1,7 @@
 <h2>News</h2>
 
+<p>2017-02-16: MPIR-3.0.0-alpha1 for Linux only, is released.</p>
+
 <p>2016-08-01: Alex Kruppa is hired to superoptimise MPIR assembly functions
 for modern Intel and AMD CPUs and write AVX assembly for the same.</p>
 
